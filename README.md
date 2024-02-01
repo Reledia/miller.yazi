@@ -8,4 +8,10 @@ prepend_previewers = [
 ]
 ```
 
+## Preview
+
+![preview](https://github.com/Reledia/miller.yazi/blob/main/preview.png?raw=true)
+
+## Color
+
 To change colors of keys and values, edit the `init.lua` file after the `--key-color` and `--value-color` flags. To view a list of possible colors, use `mlr --list-color-names`. Make sure to have miller installed and inside your PATH.
