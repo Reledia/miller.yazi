@@ -17,8 +17,6 @@ function M:peek()
 			:stderr(Command.PIPED)
 			:spawn()
 
-	ya.err("Miller operativo")
-
 	local limit = self.area.h
 	local i, lines = 0, ""
 	repeat
