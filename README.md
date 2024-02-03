@@ -1,6 +1,6 @@
 # miller.yazi
 
-[Miller](https://github.com/johnkerl/miller) now in [yazi](https://github.com/sxyazi/yazi). To install, clone the repo inside your ~/.config/yazi/plugins/:
+[Miller](https://github.com/johnkerl/miller) now in [yazi](https://github.com/sxyazi/yazi). To install, clone the repo inside `~/.config/yazi/plugins/miller_csv`:
 
 ```toml
 [plugin]
