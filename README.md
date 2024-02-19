@@ -1,11 +1,11 @@
 # miller.yazi
 
-[Miller](https://github.com/johnkerl/miller) now in [yazi](https://github.com/sxyazi/yazi). To install, clone the repo inside `~/.config/yazi/plugins/miller_csv`:
+[Miller](https://github.com/johnkerl/miller) now in [yazi](https://github.com/sxyazi/yazi). To install, clone the repo inside `~/.config/yazi/plugins/`:
 
 ```toml
 [plugin]
 prepend_previewers = [
-    { mime = "text/csv", exec = "miller_csv"},
+    { mime = "text/csv", exec = "miller"},
 ]
 ```
 
