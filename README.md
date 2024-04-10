@@ -5,7 +5,7 @@
 ```toml
 [plugin]
 prepend_previewers = [
-    { mime = "text/csv", exec = "miller"},
+    { mime = "text/csv", run = "miller"},
 ]
 ```
 
